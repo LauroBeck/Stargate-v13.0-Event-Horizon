@@ -1,10 +1,14 @@
-<svg width="500" height="270" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="300" xmlns="http://www.w3.org/2000/svg">
     <rect width="100%" height="100%" fill="#0a0a0a" />
     <text x="20" y="40" fill="#00ff00" font-family="monospace" font-size="20">STARGATE v13.0: EVENT HORIZON</text>
     <text x="20" y="80" fill="white" font-size="14">SPX: 6611.83 | VIX: 26.79</text>
     <text x="20" y="110" fill="#ff4500" font-size="16" font-weight="bold">BRENT: $144.00 (MODEL PEAK)</text>
-    <text x="20" y="140" fill="#222" font-size="12">YIELD DATA (CVX): Nasdaq Visual Null (Apr 7)</text>
-    <rect x="20" y="190" width="460" height="30" fill="#222" />
-    <text x="30" y="211" fill="red" font-weight="bold">IRAN DEADLINE: 20:00 EST / 21:00 BRT</text>
-    <circle cx="450" cy="211" r="6" fill="red"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></circle>
+    <g transform="translate(20, 150)">
+        <text x="0" y="0" fill="gray" font-size="12">YIELD TRACKER:</text>
+        <text x="0" y="20" fill="white" font-size="12">JEPQ: 11.99% | CVX: 3.72%</text>
+        <text x="0" y="40" fill="white" font-size="12">IBM: 2.71% | JPM: 2.04%</text>
+    </g>
+    <rect x="20" y="220" width="460" height="30" fill="#222" />
+    <text x="30" y="241" fill="red" font-weight="bold">IRAN DEADLINE: 20:00 EST / 21:00 BRT</text>
+    <circle cx="450" cy="241" r="6" fill="red"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></circle>
 </svg>
