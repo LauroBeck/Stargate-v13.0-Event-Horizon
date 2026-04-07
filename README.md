@@ -1,11 +1,11 @@
 # 🌌 Stargate v13.0: Event Horizon
 ### Geopolitical Inflection Suite | April 7, 2026
-**Current Status:** [BEARISH CONTROL] 🔴
+**Current Status:** [CRITICAL STRESS] 🔴
 
 ---
 
 ## 📊 Live Telemetry & Risk Dashboard
-This SVG is driven by the **Java 26** monitor, tracking the **20:00 EST Iran Deadline**.
+Driven by the **Java 26** monitor. The 20:00 EST deadline pulse is active.
 
 ![Stargate Dashboard](stargate_dashboard.svg)
 
@@ -25,7 +25,7 @@ Shadow VIX projection based on the **$144.00 Brent** risk scenario.
 
 ---
 
-## 🛰️ Strategic Intelligence Report (17:35 BRT)
+## 🛰️ Strategic Intelligence Report (17:38 BRT)
 | Ticker | Type | Current Status | Dividend Yield |
 | :--- | :--- | :--- | :--- |
 | **JEPQ** | Equity Premium | High Yield Lead | **11.99%** |
@@ -34,7 +34,9 @@ Shadow VIX projection based on the **$144.00 Brent** risk scenario.
 | **JPM** | Financials | Sector Strength | **2.04%** |
 | **TSLA** | EV / Growth | Pure Momentum | **0.00%** |
 
-> **Note:** The **SPX (6611.83)** remains below the 200-DMA pivot. The **Russell 2000 (2544.95)** is showing the only domestic resilience in the cluster.
+> **The Deadline:** Trump’s 8:00 PM EST ultimatum is the "hard pivot." Axios reports the White House has "doubts" about any further extensions, though a Pakistani proposal remains on the table.
+
+> **Market Delta:** **SPX (6,611.83)** is trading below the 200-DMA ceiling. **VIX (26.79)** is in the 99th percentile of skew as downside risk rises.
 
 ---
-*Synchronized at 17:36 BRT - All Visual Assets Verified.*
+*Synchronized at 17:38 BRT - All Visual Assets Verified.*
