@@ -1,3 +1,8 @@
+*.class
 *.o
-*.log
+stargate_node
+stargate_v13_node
+inf_engine
+divergence_node
+engine
 .DS_Store
